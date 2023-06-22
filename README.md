@@ -1,5 +1,5 @@
 ### Ola tudo bem? 👋
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2e363b&height=120&section=header"/>
 
 <!-- Header typing -->
 <h1 align="center">
@@ -37,6 +37,6 @@ Olá! Meu nome é [Kayke Laurindo](https://www.linkedin.com/in/kayke-laurindo-12
   <img align="center" alt="Vitor-Sql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="Vitor-Sql" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_advpl_icon_130762.png">
 </div> 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2e363b&height=120&section=footer"/>
   
 </div>
